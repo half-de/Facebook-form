@@ -1,0 +1,76 @@
+
+
+.firstname{
+  padding: 17px;
+  border-radius: 8px;
+  width: 368px;
+
+}
+
+.surename{
+  width: 368px;
+  padding: 17px;
+   border-radius: 8px;
+   margin-top: 7px;
+}
+
+.email{
+  padding: 17px;
+  width: 368px; 
+  border-radius: 8px;
+  margin-top: 7px;
+}
+
+
+.password{
+  padding: 17px;
+  width: 368px;
+   border-radius: 8px;
+   margin-top: 7px;
+}
+
+.main{
+  margin: auto;
+  width: 23%;
+  padding: 10px;
+  border: solid 1px;
+  width: 390px;
+  border-radius: 10px;
+}
+
+.fb{
+  text-align: center;
+  color: rgb(0, 102, 255);
+  font-size: 50px;
+}
+
+
+.btn{
+  color: white;
+  font-weight: bold;
+  font-size: 19px;
+  border: none;
+  padding: 10px;
+  width: 200px;
+  border-radius: 10px;
+  margin-left: 23%;
+  margin-top: 30px;
+  background-color: rgb(2, 177, 2);
+}
+
+
+.body{
+  margin-top: 3%;
+}
+
+h3{
+  text-align: center;
+}
+h5{
+  text-align:center;
+}
+
+
+/* p{
+  color: red;
+} */
